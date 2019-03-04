@@ -1,7 +1,7 @@
 package com.beans;
 
 /*
- * 0305
+ * 20190305
  * 创建实体POJO层
  * 创建实体User
  */
